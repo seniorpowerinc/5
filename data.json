@@ -1,11 +1,10 @@
 {
-  "pageTitle": "A Gift from Alan",
+  "pageTitle": "不要靜靜走入長夜：每一首歌都是送給自己最好的禮物",
   "lang": "zh-TW",
-  "title": "🎁 A Gift from Alan 🎁",
-  "subtitle": "A Concerto of Two Grandfathers",
-  "pdf": "pdfs/A Concerto of Two Grandfathers.pdf",
+  "title": "",
+  "subtitle": "",
+  "pdf": "pdfs/每一首歌都是送給自己最好的禮物_張允雄.pdf",
+  "coverImage": "images/Bookcover.jpg",
   "owner": "seniorpowerinc",
-  "repo": "5",
-  "coverImage": "images/A Concerto of Two Grandfathers.jpg"
+  "repo": "5"
 }
-
