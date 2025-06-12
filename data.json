@@ -1,10 +1,7 @@
 {
   "pageTitle": "不要靜靜走入長夜：每一首歌都是送給自己最好的禮物",
   "lang": "zh-TW",
-  "title": "",
-  "subtitle": "",
+  "groups": "gift",
   "pdf": "https://drive.google.com/file/d/1B9SuRpK3Wq305hxpidFU5_keDUnbee8p/view?usp=sharing",
-  "coverImage": "images/Bookcover.jpg",
-  "owner": "seniorpowerinc",
-  "repo": "5"
+  "coverImage": "images/Bookcover.jpg"
 }
